@@ -1,0 +1,42 @@
+[
+  {
+    "path": "/Users/marcelcelaya/Documents/ChatGPT/Nissan/analysis/source/inventory.json",
+    "sha256": "3bb0a6cbb9d065cf79a0f2edd7dfcaba5f08dd2f95a303d335c0eb12d4ac9ab9",
+    "size_bytes": 866738
+  },
+  {
+    "path": "/Users/marcelcelaya/Documents/ChatGPT/Nissan/analysis/backlog/review.json",
+    "sha256": "bf6418c719bd6615902a2cd45360f8f9a19bb3f318c998afd47e0dcf414ba157",
+    "size_bytes": 118229
+  },
+  {
+    "path": "/Users/marcelcelaya/Documents/ChatGPT/Nissan/analysis/backlog/source_content.json",
+    "sha256": "351150ad11d8df1812bdeb630176ede92dc757710e1f6a1e1e57ae5576bb2fed",
+    "size_bytes": 339954
+  },
+  {
+    "path": "/Users/marcelcelaya/Documents/ChatGPT/Nissan/analysis/automotive/fit_gap.json",
+    "sha256": "ecb01a3c9bf40fc45c2825dd2f263a63f04e5696a637c7be1efee3d555219248",
+    "size_bytes": 26067
+  },
+  {
+    "path": "/Users/marcelcelaya/Documents/ChatGPT/Nissan/analysis/decisions/decision_register.json",
+    "sha256": "18549bad1169b53b50793cca8e20e93cf31d52346c8a3662ebe8cba2c846e163",
+    "size_bytes": 83294
+  },
+  {
+    "path": "/Users/marcelcelaya/Documents/ChatGPT/Nissan/analysis/security/security_summary.json",
+    "sha256": "aba73cc07ee00527980504431d961062575b69a4d200937d7a7d242e2b9f5825",
+    "size_bytes": 282209
+  },
+  {
+    "path": "/Users/marcelcelaya/Downloads/NissanUS_Backlog_Jira_E0-E10.xlsx",
+    "sha256": "014d5b3c3acf5e9af8e4a00fdec22e0fe5cca9039421e908b08a07d487ba9651",
+    "size_bytes": 65109
+  },
+  {
+    "path": "/Users/marcelcelaya/Downloads/epicas_fft_plan_v4 (1).xlsx",
+    "sha256": "a2525130beeaf677f338bd779764032ba8f7ec50eb79ea5a6da18c132231060e",
+    "size_bytes": 94467
+  }
+]
